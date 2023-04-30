@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  k8s-delete-controller:
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2023-04-30T16:06:32.4980855Z"
+    description: Chart for k8s-delete-controller
+    digest: 04f87e880ddc14aec0b3756cb8f1d6e3f493871c91f058c349cecfd129ad6260
+    name: k8s-delete-controller
+    type: application
+    urls:
+    - https://github.com/majeinfo/helm-charts/releases/download/k8s-delete-controller-0.1.0/k8s-delete-controller-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-04-30T16:06:32.49896478Z"

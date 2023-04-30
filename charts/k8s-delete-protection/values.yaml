@@ -20,7 +20,7 @@ image:
   repository: majetraining/k8s-delete-protection
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "v0.1"
+  tag: "v0.1.0"
 
 imagePullSecrets: []
 nameOverride: ""
